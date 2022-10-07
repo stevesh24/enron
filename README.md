@@ -2,12 +2,17 @@
 Analysis of enron emails
 ------------------------------------
 scripts (details below):
+
 parser.ipynb
+
 add_features.ipynb
+
 exploratory_analysis.ipynb
+
 external_classifier.ipynb
 
 data files:
+
 emails.csv*: original enron dataset
 
 df_20.csv*: 20% of original enron dataset
