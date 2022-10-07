@@ -8,12 +8,13 @@ exploratory_analysis.ipynb
 external_classifier.ipynb
 
 data files:
-emails.csv: original enron dataset
-df_20.csv: 20% of original enron dataset
-df_20_features.csv: df_20.csv with one feature (is_external) added from add_features.ipynb 
+emails.csv*: original enron dataset
+df_20.csv*: 20% of original enron dataset
+df_20_features.csv*: df_20.csv with one feature (is_external) added from add_features.ipynb 
 df_test.csv: 25% of df_20_features.csv (5% of original enron dataset)
 df_test2.csv: 25% of df_test.csv (1.25% of original enron dataset)
 df_test2_subject_cleaned.csv: null subjects removed from df_test2.csv
+*not in repo
 
 Overall summary
 
