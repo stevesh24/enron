@@ -54,7 +54,9 @@ given the preliminary results, it looks like a reasonable model could be found w
 
 ------------------------------------
 parser.ipynb
+
 input: emails.csv
+
 output: df_20.csv
 
 1. Cut down enron file to 20% of original, selecting random entries.
@@ -73,7 +75,9 @@ body
 
 ------------------------------------
 add_features.ipynb
+
 input: df_20 (103480 rows, 20% of enron dataset)
+
 output: df_20_features.csv
 
 Features added (only 1 for now):
